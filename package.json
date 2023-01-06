@@ -1,0 +1,11 @@
+{
+  "name": "img-ideal",
+  "version": "1.0.0",
+  "description": "Find images with incorrect dimensions",
+  "dependencies": {
+    "ansi-styles": "^4.3",
+    "probe-image-size": "^5.0",
+    "puppeteer": "^19.4.1",
+    "yargs": "^16.0"
+  }
+}
